@@ -9,22 +9,23 @@ Site: https://massgramer.com
 
 # Short Summary Of The Bot Service
 
-Given the packages, Massgramer offers the best value for money.
-Auto Like / Follow / Unfollow
-Auto DM / Responder
-Direct chat
-Mass Story Viewing
-Mass Story Voting
-Post Scheduling (Photo, Video & Story)
-Mother Child Exclusive Methods (Only Working & Proven Method For Growth In 2021)
-Safe Growth With Mother Child DM / Slaves DM
-Analytics
-Email & Phone Scraper / Lead Generator
-Auto Repost
-Post & Video Download
-Private VPN / Proxy (security & stability)
-Dark Mode & Great UI/UX
-Great Support
-Price/Value: 9/10
-Rating: 4.9/5
-Link: https://massgramer.com
+* Given the packages, Massgramer offers the best value for money.
+2. Auto Like / Follow / Unfollow
+3. Auto DM / Responder
+4. Direct chat
+5. Mass Story Viewing
+6. Mass Story Voting
+7. Post Scheduling (Photo, Video & Story)
+8. Mother Child Exclusive Methods (Only Working & Proven Method For Growth In 2021)
+9. Safe Growth With Mother Child DM / Slaves DM
+10. Analytics
+11. Email & Phone Scraper / Lead Generator
+12. Auto Repost
+13. Post & Video Download
+14. Private VPN / Proxy (security & stability)
+15. Dark Mode & Great UI/UX
+16. Great Support
+
+* Price/Value: 9/10
+* Rating: 4.9/5
+* Link: https://massgramer.com
