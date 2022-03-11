@@ -7,7 +7,7 @@ Flamista is Functional & Effective Instagram bot. They sometimes add extra days 
 
 Site: https://flamista.com
 
-# Short Summary Of The Bot Service
+# Short Summary Of The Bot Instagram
 
 * Given the packages, Flamista offers the best value for money.
 2. Auto Like / Follow / Unfollow
