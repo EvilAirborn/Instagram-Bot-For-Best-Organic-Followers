@@ -5,7 +5,7 @@ Massgramer provides their own automation bot services with Auto Follow, Auto Unf
 
 Massgramer is Functional & Effective Instagram bot. They sometimes add extra days to your subscription if you won't able to use it properly due to many problems. Their customer support is also great. I highly recommend to use their services.
 
-Site: https://massgramer.com
+Site: https://flamista.com
 
 # Short Summary Of The Bot Service
 
@@ -28,7 +28,5 @@ Site: https://massgramer.com
 
 * Price/Value: 9/10
 * Rating: 4.9/5
-* Link: https://massgramer.com
+* Link: https://flamista.com
 
-# Instagram Video Downloader
-https://massgramer.com/instagram-video-downloader/
